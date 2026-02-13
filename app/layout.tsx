@@ -6,13 +6,13 @@ import "./globals.css";
 
 const outfit = Outfit({
   subsets: ["latin"],
-  variable: "--font-display",
+  variable: "--font-outfit",
   display: "swap",
 });
 
 const dmSans = DM_Sans({
   subsets: ["latin"],
-  variable: "--font-body",
+  variable: "--font-dm-sans",
   display: "swap",
 });
 
